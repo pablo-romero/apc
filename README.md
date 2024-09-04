@@ -62,23 +62,30 @@ $settings['page_cache_invoke_hooks'] = FALSE;
 
 Visit your site to see if it's still working!
 
+
 ### Testing
 
 To be able to test this module, open ***core/includes/cache.inc***, search for `settings_get('cache_default_class', 'BackdropDatabaseCache')` and change this to **BackdropAPCCache**. This is because the `$settings['']` array in ***settings.php*** is not always loaded properly.
+
 
 ## License
 
 This project is GPL v2 software. See the LICENSE.txt file in this directory for complete text.
 
-## Maintainers
 
-Initial port to Backdrop CMS by [Pablo Romero](https://github.com/pablo-romero)
+## Current Maintainers for Backdrop
 
-Seeking new maintainers/co-maintainers
+- [Alberto Paderno](https://github.com/avpaderno)
+
 
 ## Credits
 
-Original Drupal module authors and maintainers:
+### Port to Backdrop
 
-* Drupal 7 - [R. Muilwijk](https://drupal.org/user/159883) (Raymond Muilwijk)
-* Drupal 5 & 6 - [slantview](https://www.drupal.org/user/73183) (Steve Rude)
+- [Pablo Romero](https://github.com/pablo-romero)
+
+### Maintainers for Drupal
+
+- [Alberto Paderno](https:://www.drupal.org/u/avpaderno) (Drupal 7)
+- [Raymond Muilwijk](https://www.drupal.org/u/r.muilwijk) (Drupal 7)
+- [Steve Rude](https://www.drupal.org/u/slantview) (Drupal 5 and 6)
