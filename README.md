@@ -14,6 +14,17 @@ Consult your server administrator or hosting provider if you are unsure about
 these requirements.
 
 
+## Installation
+
+- Install this module using the official Backdrop CMS instructions at
+  [Extend with Modules](https://docs.backdropcms.org/documentation/extend-with-modules).
+
+## Issues
+
+Bugs and Feature requests should be reported in the
+[issue queue](https://github.com/backdrop-contrib/apc/issues).
+
+
 ## License
 This project is GPL v2 software. See the LICENSE.txt file in this directory for
 the complete text.
