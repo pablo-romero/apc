@@ -14,6 +14,11 @@ Consult your server administrator or hosting provider if you are unsure about
 these requirements.
 
 
+## License
+This project is GPL v2 software. See the LICENSE.txt file in this directory for
+the complete text.
+
+
 ## Current maintainers for Backdrop
 
 - [Alberto Paderno](https://github.com/avpaderno)
